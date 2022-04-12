@@ -1,3 +1,3 @@
 # README file
 
-Description of file
+Description information of the file.
